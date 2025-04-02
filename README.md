@@ -2,7 +2,7 @@
 Repositório criado para documentar o processo de aprendizado no Microsoft Azure Language Studio. O objetivo é demonstrar como a inteligência artificial pode interpretar textos e extrair informações úteis.
 
 ## Frase 1
-![image](https://github.com/user-attachments/assets/8e7fbe0c-8a02-4ddf-ad44-395dfaee1700)
+![image](https://github.com/user-attachments/assets/9b93df85-c564-40c0-aa68-ba0d85e4b32e)
 
 ## Frase 2
 ![image](https://github.com/user-attachments/assets/8e05516c-6147-4243-b282-b4908fb128f4)
@@ -30,6 +30,9 @@ Repositório criado para documentar o processo de aprendizado no Microsoft Azure
 
 ## Frase 10
 ![image](https://github.com/user-attachments/assets/f0e73320-aa7f-478e-9b6e-70318355d593)
+
+## Análise Geral do documento
+![image](https://github.com/user-attachments/assets/4a98975a-8324-475d-bad9-7288f6d9db21)
 
 ## Insights da Análise de Sentimentos
     
